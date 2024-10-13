@@ -2,10 +2,10 @@
 This project demonstrates the design and simulation of a Triangular Wave Generator using operational amplifiers. It consists of two main stages: a square wave generator and a triangular wave generator. This project was developed as part of a course assignment for CSE251 - Electrical Circuits.
 
 ## Table of Contents
-- Project Overview
-- Features
-- Requirements
-- Project Files
+1. Project Overview
+2. Features
+3. Requirements
+4. Project Files
 
 ## Project Overview
 The triangular wave generator produces a continuous triangular waveform for a specified input using operational amplifiers. The design process includes:
